@@ -1,0 +1,37 @@
+[
+{
+  "directory": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CanLogParser.dir/includes_CXX.rsp -O3 -DNDEBUG -g -std=gnu++17 -o CMakeFiles\\CanLogParser.dir\\main.cpp.obj -c C:\\Users\\KSTOYAN2\\Documents\\Projects\\CanLogParser\\main.cpp",
+  "file": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/main.cpp"
+},
+{
+  "directory": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CanLogParser.dir/includes_CXX.rsp -O3 -DNDEBUG -g -std=gnu++17 -o CMakeFiles\\CanLogParser.dir\\Application\\Application.cpp.obj -c C:\\Users\\KSTOYAN2\\Documents\\Projects\\CanLogParser\\Application\\Application.cpp",
+  "file": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/Application/Application.cpp"
+},
+{
+  "directory": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CanLogParser.dir/includes_CXX.rsp -O3 -DNDEBUG -g -std=gnu++17 -o CMakeFiles\\CanLogParser.dir\\Core\\uds\\uds_handler.cpp.obj -c C:\\Users\\KSTOYAN2\\Documents\\Projects\\CanLogParser\\Core\\uds\\uds_handler.cpp",
+  "file": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/Core/uds/uds_handler.cpp"
+},
+{
+  "directory": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CanLogParser.dir/includes_CXX.rsp -O3 -DNDEBUG -g -std=gnu++17 -o CMakeFiles\\CanLogParser.dir\\Core\\uds\\uds_main.cpp.obj -c C:\\Users\\KSTOYAN2\\Documents\\Projects\\CanLogParser\\Core\\uds\\uds_main.cpp",
+  "file": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/Core/uds/uds_main.cpp"
+},
+{
+  "directory": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CanLogParser.dir/includes_CXX.rsp -O3 -DNDEBUG -g -std=gnu++17 -o CMakeFiles\\CanLogParser.dir\\Core\\uds\\UDS_Handlers\\routine_handler.cpp.obj -c C:\\Users\\KSTOYAN2\\Documents\\Projects\\CanLogParser\\Core\\uds\\UDS_Handlers\\routine_handler.cpp",
+  "file": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/Core/uds/UDS_Handlers/routine_handler.cpp"
+},
+{
+  "directory": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CanLogParser.dir/includes_CXX.rsp -O3 -DNDEBUG -g -std=gnu++17 -o CMakeFiles\\CanLogParser.dir\\Core\\uds\\UDS_Handlers\\session_handler.cpp.obj -c C:\\Users\\KSTOYAN2\\Documents\\Projects\\CanLogParser\\Core\\uds\\UDS_Handlers\\session_handler.cpp",
+  "file": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/Core/uds/UDS_Handlers/session_handler.cpp"
+},
+{
+  "directory": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CanLogParser.dir/includes_CXX.rsp -O3 -DNDEBUG -g -std=gnu++17 -o CMakeFiles\\CanLogParser.dir\\Core\\can\\can_handler.cpp.obj -c C:\\Users\\KSTOYAN2\\Documents\\Projects\\CanLogParser\\Core\\can\\can_handler.cpp",
+  "file": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/Core/can/can_handler.cpp"
+}
+]
