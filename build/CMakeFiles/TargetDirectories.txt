@@ -1,3 +1,10 @@
-C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build/CMakeFiles/CanLogParser.dir
-C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build/CMakeFiles/edit_cache.dir
-C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build/CMakeFiles/rebuild_cache.dir
+/home/krusto/Projects/uds/build/CMakeFiles/rebuild_cache.dir
+/home/krusto/Projects/uds/build/CMakeFiles/edit_cache.dir
+/home/krusto/Projects/uds/build/CMakeFiles/UDS_tester.dir
+/home/krusto/Projects/uds/build/CMakeFiles/UDS_app.dir
+/home/krusto/Projects/uds/build/Vendor/Socket/Client/CMakeFiles/rebuild_cache.dir
+/home/krusto/Projects/uds/build/Vendor/Socket/Client/CMakeFiles/edit_cache.dir
+/home/krusto/Projects/uds/build/Vendor/Socket/Client/CMakeFiles/client.dir
+/home/krusto/Projects/uds/build/Vendor/Socket/Server/CMakeFiles/rebuild_cache.dir
+/home/krusto/Projects/uds/build/Vendor/Socket/Server/CMakeFiles/edit_cache.dir
+/home/krusto/Projects/uds/build/Vendor/Socket/Server/CMakeFiles/server.dir

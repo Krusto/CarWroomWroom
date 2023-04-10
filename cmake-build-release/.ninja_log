@@ -1,0 +1,26 @@
+# ninja log v5
+10	961	6975180329038207	CMakeFiles/CanLogParser.dir/Core/uds/uds_handler.cpp.obj	4ff6782a863ba43d
+1983	2097	6975546064495904	Vendor/Socket/Client/client.exe	855074493bace909
+27	650	6975180325907760	CMakeFiles/CanLogParser.dir/Core/uds/UDS_Handlers/session_handler.cpp.obj	f80f78cd6667705e
+8	2290	6973013526526529	CMakeFiles/CanLogParser.dir/Core/can/can_handler.cpp.obj	c67cc119a7394e54
+4	2496	6975546068515916	CMakeFiles/CanLogParser.dir/Core/uds/uds_main.cpp.obj	42ad01030d4ada27
+15	527	6975180324597771	CMakeFiles/CanLogParser.dir/Core/uds/UDS_Handlers/routine_handler.cpp.obj	47e60364f3bdb526
+16	1982	6975546063387887	Vendor/Socket/Client/CMakeFiles/client.dir/Client.cpp.obj	3eb4c95d737d5df
+7	963	6975180329058198	CMakeFiles/CanLogParser.dir/main.cpp.obj	5f7f1d4dad317cfa
+4	2009	6975180339528205	CMakeFiles/CanLogParser.dir/Application/Application.cpp.obj	788309e78bffe5de
+2497	2914	6975546072665473	CanLogParser.exe	42bd70c3262ff6b6
+15	1523	6973013518856585	Vendor/Socket/Client/CMakeFiles/client.dir/Socket.cpp.obj	d76c082de4177bfa
+10	2107	6973013524726563	Vendor/Socket/Client/CMakeFiles/client.dir/main.cpp.obj	9d6b8688fdc520f1
+17	509	6975180324487763	CMakeFiles/CanLogParser.dir/Core/uds/uds_definitions.cpp.obj	b99e62862139e52b
+7	935	6975546052873568	CMakeFiles/CanLogParser.dir/Core/uds/UDS_Handlers/read_data_by_id_handler.cpp.obj	36b8f74ebd52cd2e
+7	1564	6973013519286544	CMakeFiles/CanLogParser.dir/Vendor/Socket/Client/Socket.cpp.obj	5bbeedfd8ac63ce7
+2118	2242	6973307476085318	Vendor/Socket/Server/server.exe	9ae6274810a65040
+14	2164	6975546065195908	CMakeFiles/CanLogParser.dir/Vendor/Socket/Client/Client.cpp.obj	684f8e79cea417ae
+9	1138	6975546054925386	CMakeFiles/CanLogParser.dir/Core/uds/UDS_Handlers/security_handler.cpp.obj	991e182259f71520
+21	1449	6973013518126546	Vendor/Socket/Server/CMakeFiles/server.dir/Socket.cpp.obj	801c18bb0c0dfe5b
+19	1963	6973013523286570	Vendor/Socket/Server/CMakeFiles/server.dir/main.cpp.obj	88db9b67d12861ef
+6	2118	6973307474885284	Vendor/Socket/Server/CMakeFiles/server.dir/Server.cpp.obj	5bfded941104ea27
+20	707	6975180326367783	CMakeFiles/CanLogParser.dir/Core/uds/UDS_Handlers/tester_present_handler.cpp.obj	bc6926a09b366688
+32	481	6975180324227783	CMakeFiles/CanLogParser.dir/Core/uds/UDS_Handlers/session_data.cpp.obj	bea51bd264c40b55
+29	528	6975180324547748	CMakeFiles/CanLogParser.dir/Core/uds/UDS_Handlers/memory.cpp.obj	e08bd20bd8e2c671
+11	958	6975546053124509	CMakeFiles/CanLogParser.dir/Core/uds/UDS_Handlers/read_mem_by_addr_handler.cpp.obj	1cb414d92658fdf4

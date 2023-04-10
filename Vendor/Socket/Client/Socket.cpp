@@ -3,6 +3,7 @@
 //
 #include "Socket.h"
 
+
 int InitSocket(){
 #ifdef _WIN32
     WSADATA wsaData;
@@ -13,5 +14,7 @@ int InitSocket(){
 }
 
 void DestroySocketContext(){
+#ifdef _WIN32
     WSACleanup();
+#endif
 }

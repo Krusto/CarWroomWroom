@@ -13,5 +13,7 @@ int InitSocket(){
 }
 
 void DestroySocketContext(){
+#ifdef _WIN32
     WSACleanup();
+#endif
 }

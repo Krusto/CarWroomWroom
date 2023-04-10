@@ -2,7 +2,7 @@
 // Created by Krusto on 02-Feb-23.
 //
 
-#include "client.h"
+#include "Client.h"
 
 std::vector<unsigned char> hexStringToByteArray(const std::string &hexString) {
     std::vector<unsigned char> byteArray;
@@ -19,8 +19,8 @@ std::vector<unsigned char> hexStringToByteArray(const std::string &hexString) {
 
 
 int main() {
-    Client client("127.0.0.1", 55555);
-
+    Client client("127.0.0.1", 55554);
+    client.suppressLog = false;
     if (client.Connect() == 0) {
         std::string input;
 
@@ -28,11 +28,8 @@ int main() {
             auto buffer = hexStringToByteArray(input);
             if(buffer.size() > 0) {
                 auto dataSentLength = client.Send((char *) buffer.data(), buffer.size());
-                if (dataSentLength > 0) {
-                    std::cout << "Sent " << dataSentLength << "bytes!" << std::endl;
-                }
             }
-            std::cout << "Enter message (hexadecimal): ";
+            std::cout << ">";
             std::getline(std::cin, input);
         }
     }

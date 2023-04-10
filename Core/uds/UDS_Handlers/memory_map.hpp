@@ -1,8 +1,0 @@
-//
-// Created by Krusto on 08-Feb-23.
-//
-
-#ifndef CANLOGPARSER_MEMORY_MAP_HPP
-#define CANLOGPARSER_MEMORY_MAP_HPP
-
-#endif //CANLOGPARSER_MEMORY_MAP_HPP

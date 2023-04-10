@@ -37,7 +37,7 @@ public:
     void Stop();
 private:
 
-    static int broadcastMessage(ServerSpec* spec,char* message,int length);
+    static int broadcastMessage(ServerSpec* spec,char* message,int length,int excludedClient = -1);
 
     static void handleClient(ServerSpec* spec,int clientIndex);
 

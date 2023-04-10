@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="server"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Vendor\;CMake Files\Vendor\Socket\;CMake Files\Vendor\Socket\Client\;CMake Files\Vendor\Socket\Server\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="server">
+				<Option output="/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server/server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/e/Projects/CanLogParser/asio-1.24.0/include"/>
+					<Add directory="/mnt/e/Projects/CanLogParser/libmicrohttpd/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server/Makefile&quot;  VERBOSE=1 server"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="server/fast">
+				<Option output="/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server/server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/e/Projects/CanLogParser/asio-1.24.0/include"/>
+					<Add directory="/mnt/e/Projects/CanLogParser/libmicrohttpd/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server/Makefile&quot;  VERBOSE=1 server/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/e/Projects/CanLogParser/cmake-build-debug-wsl/Vendor/Socket/Server/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/e/Projects/CanLogParser/Vendor/Socket/Server/Server.cpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="/mnt/e/Projects/CanLogParser/Vendor/Socket/Server/Server.h">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="/mnt/e/Projects/CanLogParser/Vendor/Socket/Server/Socket.cpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="/mnt/e/Projects/CanLogParser/Vendor/Socket/Server/Socket.h">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="/mnt/e/Projects/CanLogParser/Vendor/Socket/Server/main.cpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="/mnt/e/Projects/CanLogParser/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/e/Projects/CanLogParser/Vendor/Socket/Client/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Vendor\Socket\Client\"/>
+		</Unit>
+		<Unit filename="/mnt/e/Projects/CanLogParser/Vendor/Socket/Server/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Vendor\Socket\Server\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,37 +1,162 @@
 [
 {
-  "directory": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CanLogParser.dir/includes_CXX.rsp -O3 -DNDEBUG -g -std=gnu++17 -o CMakeFiles\\CanLogParser.dir\\main.cpp.obj -c C:\\Users\\KSTOYAN2\\Documents\\Projects\\CanLogParser\\main.cpp",
-  "file": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/main.cpp"
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client -I/home/krusto/Projects/uds/Tester/src  -g   -g -std=gnu++17 -o CMakeFiles/UDS_tester.dir/Tester/src/main.cpp.o -c /home/krusto/Projects/uds/Tester/src/main.cpp",
+  "file": "/home/krusto/Projects/uds/Tester/src/main.cpp"
 },
 {
-  "directory": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CanLogParser.dir/includes_CXX.rsp -O3 -DNDEBUG -g -std=gnu++17 -o CMakeFiles\\CanLogParser.dir\\Application\\Application.cpp.obj -c C:\\Users\\KSTOYAN2\\Documents\\Projects\\CanLogParser\\Application\\Application.cpp",
-  "file": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/Application/Application.cpp"
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client -I/home/krusto/Projects/uds/Tester/src  -g   -g -std=gnu++17 -o CMakeFiles/UDS_tester.dir/Tester/src/Application/Application.cpp.o -c /home/krusto/Projects/uds/Tester/src/Application/Application.cpp",
+  "file": "/home/krusto/Projects/uds/Tester/src/Application/Application.cpp"
 },
 {
-  "directory": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CanLogParser.dir/includes_CXX.rsp -O3 -DNDEBUG -g -std=gnu++17 -o CMakeFiles\\CanLogParser.dir\\Core\\uds\\uds_handler.cpp.obj -c C:\\Users\\KSTOYAN2\\Documents\\Projects\\CanLogParser\\Core\\uds\\uds_handler.cpp",
-  "file": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/Core/uds/uds_handler.cpp"
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client -I/home/krusto/Projects/uds/Tester/src  -g   -g -std=gnu++17 -o CMakeFiles/UDS_tester.dir/Tester/src/Core/File.cpp.o -c /home/krusto/Projects/uds/Tester/src/Core/File.cpp",
+  "file": "/home/krusto/Projects/uds/Tester/src/Core/File.cpp"
 },
 {
-  "directory": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CanLogParser.dir/includes_CXX.rsp -O3 -DNDEBUG -g -std=gnu++17 -o CMakeFiles\\CanLogParser.dir\\Core\\uds\\uds_main.cpp.obj -c C:\\Users\\KSTOYAN2\\Documents\\Projects\\CanLogParser\\Core\\uds\\uds_main.cpp",
-  "file": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/Core/uds/uds_main.cpp"
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client -I/home/krusto/Projects/uds/Tester/src  -g   -g -std=gnu++17 -o CMakeFiles/UDS_tester.dir/Tester/src/Core/uds/uds_definitions.cpp.o -c /home/krusto/Projects/uds/Tester/src/Core/uds/uds_definitions.cpp",
+  "file": "/home/krusto/Projects/uds/Tester/src/Core/uds/uds_definitions.cpp"
 },
 {
-  "directory": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CanLogParser.dir/includes_CXX.rsp -O3 -DNDEBUG -g -std=gnu++17 -o CMakeFiles\\CanLogParser.dir\\Core\\uds\\UDS_Handlers\\routine_handler.cpp.obj -c C:\\Users\\KSTOYAN2\\Documents\\Projects\\CanLogParser\\Core\\uds\\UDS_Handlers\\routine_handler.cpp",
-  "file": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/Core/uds/UDS_Handlers/routine_handler.cpp"
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client -I/home/krusto/Projects/uds/Tester/src  -g   -g -std=gnu++17 -o CMakeFiles/UDS_tester.dir/Tester/src/Core/driver/can/can_handler.cpp.o -c /home/krusto/Projects/uds/Tester/src/Core/driver/can/can_handler.cpp",
+  "file": "/home/krusto/Projects/uds/Tester/src/Core/driver/can/can_handler.cpp"
 },
 {
-  "directory": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CanLogParser.dir/includes_CXX.rsp -O3 -DNDEBUG -g -std=gnu++17 -o CMakeFiles\\CanLogParser.dir\\Core\\uds\\UDS_Handlers\\session_handler.cpp.obj -c C:\\Users\\KSTOYAN2\\Documents\\Projects\\CanLogParser\\Core\\uds\\UDS_Handlers\\session_handler.cpp",
-  "file": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/Core/uds/UDS_Handlers/session_handler.cpp"
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client -I/home/krusto/Projects/uds/Tester/src  -g   -g -std=gnu++17 -o CMakeFiles/UDS_tester.dir/Tester/src/Core/driver/message_drv.cpp.o -c /home/krusto/Projects/uds/Tester/src/Core/driver/message_drv.cpp",
+  "file": "/home/krusto/Projects/uds/Tester/src/Core/driver/message_drv.cpp"
 },
 {
-  "directory": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CanLogParser.dir/includes_CXX.rsp -O3 -DNDEBUG -g -std=gnu++17 -o CMakeFiles\\CanLogParser.dir\\Core\\can\\can_handler.cpp.obj -c C:\\Users\\KSTOYAN2\\Documents\\Projects\\CanLogParser\\Core\\can\\can_handler.cpp",
-  "file": "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/Core/can/can_handler.cpp"
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client -I/home/krusto/Projects/uds/Tester/src  -g   -g -std=gnu++17 -o CMakeFiles/UDS_tester.dir/Vendor/Socket/Client/Client.cpp.o -c /home/krusto/Projects/uds/Vendor/Socket/Client/Client.cpp",
+  "file": "/home/krusto/Projects/uds/Vendor/Socket/Client/Client.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client -I/home/krusto/Projects/uds/Tester/src  -g   -g -std=gnu++17 -o CMakeFiles/UDS_tester.dir/Vendor/Socket/Client/Socket.cpp.o -c /home/krusto/Projects/uds/Vendor/Socket/Client/Socket.cpp",
+  "file": "/home/krusto/Projects/uds/Vendor/Socket/Client/Socket.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/main.cpp.o -c /home/krusto/Projects/uds/UDS/main.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/main.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Application/Application.cpp.o -c /home/krusto/Projects/uds/UDS/Application/Application.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Application/Application.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Core/uds/uds_definitions.cpp.o -c /home/krusto/Projects/uds/UDS/Core/uds/uds_definitions.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Core/uds/uds_definitions.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Core/uds/uds_handler.cpp.o -c /home/krusto/Projects/uds/UDS/Core/uds/uds_handler.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Core/uds/uds_handler.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Core/uds/uds_main.cpp.o -c /home/krusto/Projects/uds/UDS/Core/uds/uds_main.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Core/uds/uds_main.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Core/uds/UDS_Handlers/routine_handler.cpp.o -c /home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/routine_handler.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/routine_handler.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Core/uds/UDS_Handlers/session_handler.cpp.o -c /home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/session_handler.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/session_handler.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Core/uds/UDS_Handlers/security_handler.cpp.o -c /home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/security_handler.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/security_handler.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Core/uds/UDS_Handlers/tester_present_handler.cpp.o -c /home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/tester_present_handler.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/tester_present_handler.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Core/uds/UDS_Handlers/read_data_by_id_handler.cpp.o -c /home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/read_data_by_id_handler.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/read_data_by_id_handler.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Core/uds/UDS_Handlers/read_mem_by_addr_handler.cpp.o -c /home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/read_mem_by_addr_handler.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/read_mem_by_addr_handler.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Core/uds/UDS_Handlers/write_mem_by_addr_handler.cpp.o -c /home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/write_mem_by_addr_handler.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/write_mem_by_addr_handler.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Core/uds/UDS_Handlers/session_data.cpp.o -c /home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/session_data.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/session_data.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Core/uds/UDS_Handlers/memory.cpp.o -c /home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/memory.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Core/uds/UDS_Handlers/memory.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Core/driver/can/can_handler.cpp.o -c /home/krusto/Projects/uds/UDS/Core/driver/can/can_handler.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Core/driver/can/can_handler.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/UDS/Core/driver/message_drv.cpp.o -c /home/krusto/Projects/uds/UDS/Core/driver/message_drv.cpp",
+  "file": "/home/krusto/Projects/uds/UDS/Core/driver/message_drv.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/Vendor/Socket/Client/Client.cpp.o -c /home/krusto/Projects/uds/Vendor/Socket/Client/Client.cpp",
+  "file": "/home/krusto/Projects/uds/Vendor/Socket/Client/Client.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/UDS/Core -I/home/krusto/Projects/uds/UDS/Core/can -I/home/krusto/Projects/uds/UDS/Core/uds -I/home/krusto/Projects/uds/Vendor/Socket/Client  -g   -g -std=gnu++17 -o CMakeFiles/UDS_app.dir/Vendor/Socket/Client/Socket.cpp.o -c /home/krusto/Projects/uds/Vendor/Socket/Client/Socket.cpp",
+  "file": "/home/krusto/Projects/uds/Vendor/Socket/Client/Socket.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build/Vendor/Socket/Client",
+  "command": "/usr/bin/g++     -std=c++0x -g   -std=gnu++17 -o CMakeFiles/client.dir/main.cpp.o -c /home/krusto/Projects/uds/Vendor/Socket/Client/main.cpp",
+  "file": "/home/krusto/Projects/uds/Vendor/Socket/Client/main.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build/Vendor/Socket/Client",
+  "command": "/usr/bin/g++     -std=c++0x -g   -std=gnu++17 -o CMakeFiles/client.dir/Client.cpp.o -c /home/krusto/Projects/uds/Vendor/Socket/Client/Client.cpp",
+  "file": "/home/krusto/Projects/uds/Vendor/Socket/Client/Client.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build/Vendor/Socket/Client",
+  "command": "/usr/bin/g++     -std=c++0x -g   -std=gnu++17 -o CMakeFiles/client.dir/Socket.cpp.o -c /home/krusto/Projects/uds/Vendor/Socket/Client/Socket.cpp",
+  "file": "/home/krusto/Projects/uds/Vendor/Socket/Client/Socket.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build/Vendor/Socket/Server",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/asio-1.24.0/include -I/home/krusto/Projects/uds/libmicrohttpd/include   -std=c++0x -g   -std=gnu++17 -o CMakeFiles/server.dir/main.cpp.o -c /home/krusto/Projects/uds/Vendor/Socket/Server/main.cpp",
+  "file": "/home/krusto/Projects/uds/Vendor/Socket/Server/main.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build/Vendor/Socket/Server",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/asio-1.24.0/include -I/home/krusto/Projects/uds/libmicrohttpd/include   -std=c++0x -g   -std=gnu++17 -o CMakeFiles/server.dir/Server.cpp.o -c /home/krusto/Projects/uds/Vendor/Socket/Server/Server.cpp",
+  "file": "/home/krusto/Projects/uds/Vendor/Socket/Server/Server.cpp"
+},
+{
+  "directory": "/home/krusto/Projects/uds/build/Vendor/Socket/Server",
+  "command": "/usr/bin/g++   -I/home/krusto/Projects/uds/asio-1.24.0/include -I/home/krusto/Projects/uds/libmicrohttpd/include   -std=c++0x -g   -std=gnu++17 -o CMakeFiles/server.dir/Socket.cpp.o -c /home/krusto/Projects/uds/Vendor/Socket/Server/Socket.cpp",
+  "file": "/home/krusto/Projects/uds/Vendor/Socket/Server/Socket.cpp"
 }
 ]

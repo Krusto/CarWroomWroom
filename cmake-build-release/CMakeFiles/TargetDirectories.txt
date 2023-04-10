@@ -1,3 +1,9 @@
-C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/cmake-build-release/CMakeFiles/CanLogParser.dir
-C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/cmake-build-release/CMakeFiles/edit_cache.dir
-C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/cmake-build-release/CMakeFiles/rebuild_cache.dir
+E:/Projects/CanLogParser/cmake-build-release/CMakeFiles/CanLogParser.dir
+E:/Projects/CanLogParser/cmake-build-release/CMakeFiles/edit_cache.dir
+E:/Projects/CanLogParser/cmake-build-release/CMakeFiles/rebuild_cache.dir
+E:/Projects/CanLogParser/cmake-build-release/Vendor/Socket/Client/CMakeFiles/client.dir
+E:/Projects/CanLogParser/cmake-build-release/Vendor/Socket/Client/CMakeFiles/edit_cache.dir
+E:/Projects/CanLogParser/cmake-build-release/Vendor/Socket/Client/CMakeFiles/rebuild_cache.dir
+E:/Projects/CanLogParser/cmake-build-release/Vendor/Socket/Server/CMakeFiles/server.dir
+E:/Projects/CanLogParser/cmake-build-release/Vendor/Socket/Server/CMakeFiles/edit_cache.dir
+E:/Projects/CanLogParser/cmake-build-release/Vendor/Socket/Server/CMakeFiles/rebuild_cache.dir

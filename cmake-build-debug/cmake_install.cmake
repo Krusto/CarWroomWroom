@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/KSTOYAN2/Documents/Projects/CanLogParser
+# Install script for directory: E:/Projects/CanLogParser
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,14 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/KSTOYAN2/Documents/Programs/mingw64/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "E:/Programs/CLion 2021.3.3/bin/mingw/bin/objdump.exe")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for each subdirectory.
+  include("E:/Projects/CanLogParser/cmake-build-debug/Vendor/Socket/Client/cmake_install.cmake")
+  include("E:/Projects/CanLogParser/cmake-build-debug/Vendor/Socket/Server/cmake_install.cmake")
+
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +52,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/KSTOYAN2/Documents/Projects/CanLogParser/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Projects/CanLogParser/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
