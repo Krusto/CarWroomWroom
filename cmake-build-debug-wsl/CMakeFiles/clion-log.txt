@@ -1,5 +1,0 @@
-C:\Windows\system32\wsl.exe --distribution Ubuntu --exec /bin/bash -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/e/Projects/CanLogParser/cmake-build-debug-wsl && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' /mnt/e/Projects/CanLogParser"
-Compiler Version: 9.4.0
--- Configuring done
--- Generating done
--- Build files have been written to: /mnt/e/Projects/CanLogParser/cmake-build-debug-wsl

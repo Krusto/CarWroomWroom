@@ -1,1 +1,0 @@
-/usr/bin/g++   -std=c++0x -g   CMakeFiles/server.dir/main.cpp.o CMakeFiles/server.dir/Server.cpp.o CMakeFiles/server.dir/Socket.cpp.o  -o server   -L/home/krusto/Projects/uds/libmicrohttpd/lib  -Wl,-rpath,/home/krusto/Projects/uds/libmicrohttpd/lib -lpthread 

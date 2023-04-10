@@ -1,9 +1,0 @@
-/mnt/e/Projects/CanLogParser/cmake-build-release-wsl/CMakeFiles/rebuild_cache.dir
-/mnt/e/Projects/CanLogParser/cmake-build-release-wsl/CMakeFiles/edit_cache.dir
-/mnt/e/Projects/CanLogParser/cmake-build-release-wsl/CMakeFiles/CanLogParser.dir
-/mnt/e/Projects/CanLogParser/cmake-build-release-wsl/Vendor/Socket/Client/CMakeFiles/rebuild_cache.dir
-/mnt/e/Projects/CanLogParser/cmake-build-release-wsl/Vendor/Socket/Client/CMakeFiles/edit_cache.dir
-/mnt/e/Projects/CanLogParser/cmake-build-release-wsl/Vendor/Socket/Client/CMakeFiles/client.dir
-/mnt/e/Projects/CanLogParser/cmake-build-release-wsl/Vendor/Socket/Server/CMakeFiles/rebuild_cache.dir
-/mnt/e/Projects/CanLogParser/cmake-build-release-wsl/Vendor/Socket/Server/CMakeFiles/edit_cache.dir
-/mnt/e/Projects/CanLogParser/cmake-build-release-wsl/Vendor/Socket/Server/CMakeFiles/server.dir
